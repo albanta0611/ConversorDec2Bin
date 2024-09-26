@@ -2,9 +2,11 @@
 ## Esto es un subtítulo 
 En esta frase encontramos palabras tanto en **negrita** como en *cursiva* como en ***ambas a la vez***. También podemos encontrar **textos en negrita con palabras sueltas en _cursiva_** o ~~texto tachado~~
 Esto es un ejemplo de una lista de tareas
-*[x]limpiar el cuarto
-*[x]hacer deberes de programación
-*[]seguir estudiando matemáticas
+* [ ] limpiar el cuarto
+- [x] hacer deberes de programación
++ [ ] seguir estudiando matemáticas
 ![Esto es una foto de un gato](https://myoctocat.com/assets/images/base-octocat.svg)
-> ![NOTA]
+
+> [!NOTA]
 > Es importante ser consciente de nuestras alertas en github
+>
