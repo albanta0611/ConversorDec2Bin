@@ -7,6 +7,6 @@ Esto es un ejemplo de una lista de tareas
 + [ ] seguir estudiando matemáticas
 ![Esto es una foto de un gato](https://myoctocat.com/assets/images/base-octocat.svg)
 
-> [!NOTA]
+> [!NOTE]
 > Es importante ser consciente de nuestras alertas en github
 >
